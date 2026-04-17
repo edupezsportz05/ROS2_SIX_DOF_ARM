@@ -5,7 +5,7 @@ This project contains a 6-DOF robotic arm simulation built using:
 - ROS 2 Jazzy
 - Gazebo Harmonic
 - ros2_control
-- MoveIt 2
+- MoveIt 2 [still working on it]
 
 ## Features
 
